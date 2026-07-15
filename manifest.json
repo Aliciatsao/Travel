@@ -1,0 +1,15 @@
+{
+  "name": "Travel Pocket",
+  "short_name": "Travel",
+  "description": "私人旅遊行程規劃、推薦清單與費用記錄",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#c4949b",
+  "theme_color": "#2c3440",
+  "orientation": "portrait-primary",
+  "lang": "zh-TW",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
